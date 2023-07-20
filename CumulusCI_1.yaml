@@ -1,0 +1,5 @@
+project:
+    name: Food-Bank
+    package:
+         name: Food-Bank
+         namespace: CumulusCI_1
